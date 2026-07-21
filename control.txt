@@ -1,0 +1,1 @@
+Synthetic G3-O2 PR negative-control fixture.
